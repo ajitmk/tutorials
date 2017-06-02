@@ -10,6 +10,7 @@ public class ArrayDemo {
 		//myIntArray1 = new int[10];
 		//myIntArray1[0] =100;
 		//myIntArray1[1] =200;
+		//hello
 		
 		
 		System.out.println("0 index:" + myIntArray1[0]);
